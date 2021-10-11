@@ -1,0 +1,6 @@
+For the first dataset we can use a bar graph because there are values across categories that
+need to be displayed. In this instance we dont have too many categories so a bar graph will be
+suitable.
+
+For the second dataset we can use a bar graph or a line graph as it will make it easy for us to
+see how the age and gender of a person determines whether or not they will have a high salary.

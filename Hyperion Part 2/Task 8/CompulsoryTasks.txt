@@ -1,0 +1,37 @@
+Bullet graph - These graphs are typically used to display performance data. 
+			   They are used to compare one value, represented by a horizontal bar, 
+			   to another value, represented by a vertical line, and relate those to qualitative ranges.
+
+
+Box and whisker plot - A box and whisker plot is a way of summarizing a set of data measured on an interval scale. 
+					   It is often used in explanatory data analysis. 
+					   This type of graph is used to show the shape of the distribution, its central value, and its variability.
+
+
+Density plot - A Density Plot visualises the distribution of data over a continuous interval or time period.
+			   It is a representation of the distribution of a numeric variable.
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+COMPULSORY TASK 2:
+
+
+Visualisation A:
+- Make the font size smaller because it is currently too big for the graph
+- Place the titles in the graph instead of outside so it looks neater and easier to read
+- Display percentages to give a more accurate representation instead of having nothing.
+
+
+Visualisation B:
+- Put a title in the x-axis saying 'Days of the week' instead of leaving it blank
+- Use different colors for each bar instead of using the same orange color for all of the bars
+- 'Days of week' at the top is not an accurate title for what is being represented in the bar graph.
+   Change it to something like 'Number of bags sold for each day of the week'
+
+
+Visualisation C:
+- The graph is too cluttered. There are too many variables in a single bar. Its hard to read.
+- The title of the bar graph should be centralised and not pushed to the side.
+- 'Month' should be at the bottom on the x-axis.
+- Each department could have had its own bar

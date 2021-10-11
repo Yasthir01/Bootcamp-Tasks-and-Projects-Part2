@@ -1,0 +1,19 @@
+Normalisation - In order to achieve good database design, Normalisation is used to break down
+				a relational schema into smaller relations.
+				It reduces redundancies and removes anamolies which in turn brings the database
+				to a consistent state.
+
+
+When is a table in 1NF - * All of the key attributes are defined
+						 * There are no repeating groups in the table
+                         * All attributes are dependent on the primary key
+
+
+When is a table in 2NF - * It should be in the First Normal Form
+					     * It should not have Partial Dependency
+
+
+When is a table in 3NF - * It should be in the Second Normal Form
+						 * It should not have Transitive Dependency
+
+

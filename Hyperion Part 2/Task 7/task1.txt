@@ -1,0 +1,9 @@
+The first scenario is to visualize the different forms of crimes that are committed in specific cities
+in a given country. You will be able to see the volume of these crimes based on geographical location
+and you will be able to see how crimes are ranked in each city.
+
+
+The second scenario will be a visualisation of a school classroom in which students' marks are analysed
+based on their location, race, gender and parental involvement in their homework. 
+You will be able to accurately see which students perform better than others based on these factors
+and how these said factors influence them positively or negatively.

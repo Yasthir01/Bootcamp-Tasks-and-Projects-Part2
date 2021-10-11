@@ -1,0 +1,49 @@
+1.
+a) Data - Data is raw information that needs to be processed and organised in order to extract
+		  meaningful information from it. In terms of a DBMS, data is single items that are stored
+		  in a database.
+
+b) Field - Field refers to single pieces of data that is part of the record. It is used to describe single
+		   elements of the record such as name, address, phone number etc.
+
+c) Record - a record is each row of a table. It represents a specific entity such as a person, thing or place.
+
+d) File - Records that are collected and stored together is referred to as a File. It is stored in a structured
+		  format and organised into tables such as 'Customer'.
+
+
+2. A DBMS allows the user to interact with the database. It is software and/or a collection of programs that
+   enables the user to store, modify and extract information that can be used to assist in business related queries.
+
+   Advantages:
+   - Allows users to have access to information that is stored in the database
+
+   - End users are able to get a view of the organisation's operations and are more aware of the bigger picture.
+
+   - In a properly designed database, data inconsistency is reduced. All departments have access to the same
+   	 consistent information instead of different conflicting information.
+
+   - The use of queries enables the user to find quick and accurate answers to business questions.
+
+   - You are able to make better decisions if you are able to have efficient access to properly managed data 
+     that is of  hopefully better quality information.
+
+   - In the cut throat business world, you need to be able to make quick informed decisions. When you have easily
+   	 available data and the tools to efficiently access and interpret that data, then you are able to make better those
+   	 quick informed decisions.
+
+
+3. Data is raw facts that are collected and stored in an unstructured format. You cant get meaningful information
+   from raw data. 
+
+   When you convert that raw data in a structured and meaningful way that can be interpreted for efficient use, then
+   it is known as Information.
+
+
+4. Metadata is data that is used to provide information about other data. It is "data about data". 
+   It can make working with data easier as it can summarise the basic basic information about the collected data.
+
+
+5.
+e) 4 records
+f) 5 fields 

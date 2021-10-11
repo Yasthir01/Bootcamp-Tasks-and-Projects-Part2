@@ -1,0 +1,51 @@
+CREATE TABLE Student (
+	STU_NUM CHAR(6) NOT NULL,
+    STU_SNAME VARCHAR(15),
+    STU_FNAME VARCHAR(15),
+    STU_INITIAL CHAR(1),
+    STU_STARTDATE DATE,
+    COURSE_CODE CHAR(3),
+    PROJ_NUM INT(2),
+    PRIMARY KEY (STU_NUM)
+    );
+
+
+INSERT INTO Student 
+    VALUES (01, 'Snow', 'John', 'E', '05-Apr-14', '201', 6);
+
+
+INSERT INTO Student 
+    VALUES (02, 'Stark', 'Arya', 'C', '12-Jul-17', '305', 11);
+
+
+SELECT * FROM Student
+WHERE COURSE_CODE = 305;
+
+
+UPDATE Student
+SET COURSE_CODE = 304
+WHERE STU_NUM = 07;
+
+
+DELETE FROM Student
+WHERE STU_STARTDATE = '05-Sep-12' AND 
+COURSE_CODE = 101 AND
+PROJ_NUM = 2;
+
+
+UPDATE Student
+SET PROJ_NUM = 14 
+WHERE STU_STARTDATE < '01-Jan-16'
+AND COURSE_CODE = 201;
+
+
+TRUNCATE TABLE Student;
+
+
+DROP TABLE Student;
+
+
+
+
+
+
